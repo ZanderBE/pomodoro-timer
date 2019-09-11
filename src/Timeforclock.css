@@ -1,0 +1,13 @@
+.App-clock {
+  display: flex;
+  justify-content: center;
+  font-family: 'Lobster', cursive;
+  background-color: #CFCFCF;
+  border: 1px solid #4D5057;
+  border-radius: 8px;
+  width: 125px;
+}
+
+.time {
+
+}

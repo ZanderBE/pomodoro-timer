@@ -1,0 +1,12 @@
+.sound-reset-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.break-session-controls {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}

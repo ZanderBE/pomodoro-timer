@@ -1,0 +1,28 @@
+.session-controls {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.session-number {
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+  margin: 5px;
+}
+
+
+.plus-button {
+  background: none;
+  border: none;
+}
+
+.minus-button {
+  background: none;
+  border: none;
+}
+
+.session-title {
+  font-size: 3em;
+  margin: 0px;
+}
