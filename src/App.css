@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Teko&display=swap');
+
+
+body {
+  background-image: linear-gradient(225deg, #4D5057 0%, #B8C5BE 50%, #CFCFCF 100%);
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: 1px 0 0 #4D5057, -1px 0 0 #4D5057, 0 1px 0 #4D5057, 0 -1px 0 #4D5057, 1px 1px #4D5057, -1px -1px 0 #4D5057, 1px -1px 0 #4D5057, -1px 1px 0 #4D5057;
+  font-family: 'Teko', sans-serif;
+  margin: 0px;
+}
+

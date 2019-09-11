@@ -1,0 +1,27 @@
+.plus-button {
+  background: none;
+  border: none;
+}
+
+.minus-button {
+  background: none;
+  border: none;
+}
+
+.break-controls {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.break-number {
+  font-family: 'Lobster', cursive;
+  font-size: 3em;
+  margin: 5px;
+}
+
+.break-title {
+  font-size: 3em;
+  margin: 0px;
+}
